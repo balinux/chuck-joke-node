@@ -49,6 +49,9 @@ joke.random()
 //   })
 ```
 
+### Demo
+
+![Demo](https://raw.githubusercontent.com/balinux/chuck-joke-node/master/jokecap.gif)
 
 ### notes
 
